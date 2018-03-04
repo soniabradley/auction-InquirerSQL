@@ -1,5 +1,5 @@
 # auction-InquirerSQL
-Application that uses MySQL to store item and bidding information.  
+Application that uses MySQL to store items and bidding information.  
 
 # Good to knows
 ![alt text](func1.png)
@@ -13,7 +13,7 @@ Application that uses MySQL to store item and bidding information.
 * [connection.query & promises](https://codeburst.io/node-js-mysql-and-promises-4c3be599909b)
 
 
-#Installation
+# Installation
 To install:
 
 npm install --save 
