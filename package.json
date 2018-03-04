@@ -1,0 +1,26 @@
+{
+  "name": "greatday",
+  "version": "1.0.0",
+  "description": "auction",
+  "main": "auction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniabradley/auction-InquirerSQL.git"
+  },
+  "keywords": [
+    "auction"
+  ],
+  "author": "soniabradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniabradley/auction-InquirerSQL/issues"
+  },
+  "homepage": "https://github.com/soniabradley/auction-InquirerSQL#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
